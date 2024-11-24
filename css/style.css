@@ -78,10 +78,10 @@
     border-radius: 0%;
 }
 .headerarea .card a{
-    text-decaration:none;
+    text-decoration:none;
     color:rgb(0, 0, 0);
 }
-.headerarea .card:a hover{
+.headerarea .card:hover{
     background-color: black;
     color: #FFFFFF;
 }
