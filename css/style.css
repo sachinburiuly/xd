@@ -77,7 +77,11 @@
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border-radius: 0%;
 }
-.headerarea .card:hover{
+.headerarea .card a{
+    text-decaration:none;
+    color:rgb(0, 0, 0);
+}
+.headerarea .card:a hover{
     background-color: black;
     color: #FFFFFF;
 }
