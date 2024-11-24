@@ -81,7 +81,7 @@
     text-decoration:none;
     color:rgb(0, 0, 0);
 }
-.headerarea .card:hover{
+.headerarea .card a:hover{
     background-color: black;
     color: #FFFFFF;
 }
